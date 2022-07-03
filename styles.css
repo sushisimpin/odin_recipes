@@ -12,7 +12,7 @@ h1 {
 
 /* Style the links inside the navigation bar */
 .topnav a {
-  float: left;
+  float: right;
   color: #f2f2f2;
   text-align: center;
   padding: 14px 16px;
@@ -31,4 +31,10 @@ h1 {
 .topnav a.active {
   background-color: pink;
   color: white;
+}
+
+/* logo */
+#logo {
+  height: 47px;
+  float: left;
 }
