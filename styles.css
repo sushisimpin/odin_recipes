@@ -38,3 +38,8 @@ h1 {
   height: 47px;
   float: left;
 }
+
+#intro {
+  font-size: 17px;
+  font-family: "Andale Mono";
+}
