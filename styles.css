@@ -25,21 +25,6 @@ h1 {
   overflow: hidden;
 }
 
-@media only screen and (max-width: 600px) {
-  .topnav a {
-    float: right;
-    color: #f2f2f2;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    font-size: 17px;
-    font-family: "Andale Mono";
-    flex-wrap: wrap;
-    width: 100%;
-    max-width: 100px;
-  }
-}
-
 /* Style the links inside the navigation bar */
 .topnav a {
   float: right;
@@ -49,6 +34,8 @@ h1 {
   text-decoration: none;
   font-size: 17px;
   font-family: "Andale Mono";
+  width: 100%;
+  max-width: 100px;
 }
 
 /* Change the color of links on hover */
