@@ -15,8 +15,11 @@ h1 {
   font-size: 200px;
   text-align: center;
   margin-top: 25px;
-  width: 100%;
-  max-width: 100px;
+}
+
+h2 {
+  font-size: 70px;
+  font-family: "Andale Mono";
 }
 
 /* Add a black background color to the top navigation */
@@ -57,7 +60,30 @@ h1 {
   float: left;
 }
 
-#intro {
+#sexyText {
   font-size: 17px;
   font-family: "Andale Mono";
+}
+
+#store {
+  width: 600px;
+  float: left;
+  padding-left: 10px;
+  padding-right: 20px;
+}
+
+#perronesTaco {
+  width: 500px;
+  height: 600px;
+  float: left;
+  padding-left: 10px;
+  padding-right: 20px;
+}
+
+#regularTaco {
+  width: 400px;
+  float: left;
+  padding-left: 10px;
+  padding-right: 20px;
+  text-align: justify;
 }
