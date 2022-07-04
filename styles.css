@@ -6,6 +6,10 @@
     margin-top: 25px;
     flex-wrap: wrap;
   }
+  .img-responsive {
+    width: 100%;
+    max-width: 100px;
+  }
 }
 
 h1 {
