@@ -35,8 +35,6 @@ h1 {
     font-size: 17px;
     font-family: "Andale Mono";
     flex-wrap: wrap;
-  }
-  .img-responsive {
     width: 100%;
     max-width: 100px;
   }
