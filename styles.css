@@ -5,22 +5,6 @@ h1 {
   margin-top: 25px;
 }
 
-.img-responsive {
-  width: 100%;
-}
-
-@media screen and (max-width: 360px) {
-  h1 {
-    font-size: 12px !important;
-    line-height: 80%;
-    margin-top: 10px;
-  }
-  .img-responsive {
-    width: 100%;
-    max-width: 100px;
-  }
-}
-
 h2 {
   font-size: 70px;
   font-family: "Andale Mono";
@@ -109,4 +93,20 @@ h2 {
       format("truetype"),
     url("//db.onlinewebfonts.com/t/663974c9fe3ba55b228724fd4d4e445f.svg#Andale Mono")
       format("svg");
+}
+
+.img-responsive {
+  width: 100%;
+}
+
+@media screen and (max-width: 360px) {
+  h1 {
+    font-size: 12px !important;
+    line-height: 80%;
+    margin-top: 10px;
+  }
+  .img-responsive {
+    width: 100%;
+    max-width: 100px;
+  }
 }
