@@ -22,6 +22,8 @@ h2 {
 
 /* Style the links inside the navigation bar */
 .topnav a {
+  display: -ms-flexbox;
+  display: flex;
   float: right;
   color: #f2f2f2;
   text-align: center;
