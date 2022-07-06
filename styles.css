@@ -6,7 +6,7 @@ h1 {
 }
 
 h2 {
-  font-size: 18vw;
+  font-size: 7vw;
   font-family: "Andale Mono";
 }
 
@@ -14,6 +14,7 @@ h2 {
 .topnav {
   background-color: #333;
   overflow: hidden;
+  max-width: 100%;
 }
 
 /* Style the links inside the navigation bar */
@@ -49,7 +50,7 @@ h2 {
 }
 
 #sexyText {
-  font-size: 6vw;
+  font-size: 1vw;
   font-family: "Andale Mono";
   padding-right: 20px;
   padding-left: 10px;
