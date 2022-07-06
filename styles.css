@@ -6,8 +6,12 @@ h1 {
 }
 
 h2 {
-  font-size: 7vw;
+  font-size: 6vw;
   font-family: "Andale Mono";
+}
+
+.em {
+  font-size: 1.5vw;
 }
 
 /* Add a black background color to the top navigation */
@@ -23,7 +27,7 @@ h2 {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-  font-size: 2vw;
+  font-size: 1.5vw;
   font-family: "Andale Mono";
   width: 100%;
   max-width: 100px;
