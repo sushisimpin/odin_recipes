@@ -130,6 +130,10 @@ h2 {
   }
 }
 
+.em {
+  font-size: 1.4vw;
+}
+
 /* .img-with-text {
   text-align: justify;
 
